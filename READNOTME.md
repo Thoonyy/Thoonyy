@@ -1,13 +1,13 @@
 
 - 👋 Hi, I’m @Thoonyy
 - 👀 I’m interested in Python and html
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning HMTL
+- 💞️ I’m looking to collaborate on anybody because i'm a beginner 
+- 📫 How to reach me 
 <p> I would is possible learn about python 
 <figure>
     <blockquote>
-        <p> <em> je suis un debutant ;-;</em> </p>
+        <p> <em> je suis français et un debutant ;-;</em> </p>
     </blockquote>
 </figure> 
 
